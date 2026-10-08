@@ -12,9 +12,9 @@
 
 | Nome completo | RM | E-mail |
 |---|---|---|
-| DAVI LEAL DE ARAÚJO | RM000000 | |
+| DAVI LEAL DE ARAÚJO | RM377830 | davilealdearaujo@gmail.com|
 | DÉBORA COSTA BRASILINO | RM377831 | deborabrasilino@yahoo.com.br |
-| JULIANA DIAS LUBACHESKI | | |
+| JULIANA DIAS LUBACHESKI |RM377804 |julianalubacheski@gmail.com |
 | NANCY LORENA MONTANO RIVERA | RM378100 | |
 
 ---
@@ -114,9 +114,9 @@ exatamente os números da seção 5.
 
 ## 6. Principais conclusões
 
-**1. A maturidade é decisiva:** A idade do solicitante (DAYS_BIRTH) provou ser o fator de maior peso na aprovação do crédito, indicando que a maturidade pessoal tem forte correlação com a responsabilidade e o comportamento de pagamento..
+**1. A maturidade é decisiva:** A idade do solicitante (DAYS_BIRTH) provou ser o fator de maior peso na aprovação do crédito, indicando que a maturidade pessoal tem forte correlação com a responsabilidade e o comportamento de pagamento.
 
-**2. Estabilidade e capacidade são os pilares de risco:** O tempo no atual emprego (DAYS_EMPLOYED) e a Renda Total (AMT_INCOME_TOTAL) fecham o Top 3 de variáveis decisivas, validando matematicamente as práticas comuns de esteiras de crédito do mercado financeiro..
+**2. Estabilidade e capacidade são os pilares de risco:** O tempo no atual emprego (DAYS_EMPLOYED) e a Renda Total (AMT_INCOME_TOTAL) fecham o Top 3 de variáveis decisivas, validando matematicamente as práticas comuns de esteiras de crédito do mercado financeiro.
 
 **3. Fatores secundários importam menos:** Variáveis patrimoniais periféricas, como possuir carro próprio ou tamanho da família, demonstraram um nível de importância secundário na discriminação entre bons e maus pagadores.
    
