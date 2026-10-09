@@ -15,7 +15,7 @@
 | DAVI LEAL DE ARAÚJO | RM377830 | davilealdearaujo@gmail.com|
 | DÉBORA COSTA BRASILINO | RM377831 | deborabrasilino@yahoo.com.br |
 | JULIANA DIAS LUBACHESKI |RM377804 |julianalubacheski@gmail.com |
-| NANCY LORENA MONTANO RIVERA | RM378100 | |
+| NANCY LORENA MONTANO RIVERA | RM378100 | nlmrivera@gmail.com |
 
 ---
 
