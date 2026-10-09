@@ -48,7 +48,7 @@ A variável alvo (`mau_pagador`) foi criada a partir da coluna de status do hist
 |---|---|
 | Fonte | [Link dos Dados](https://drive.google.com/file/d/1z4yEyiCE_CGCWbvAAZQZSz-5-E5T5eYd/view?usp=sharing) |
 | Linhas × colunas | 36.457 linhas e 18 colunas principais (antes do One-Hot Encoding) |
-| Período / versão | |
+| Período / versão | Base de Avaliação de Crédito (Fornecida no Tech-Challenge-Fase2 da FIAP) |
 | Licença de uso | Uso Acadêmico |
 
 Descrição das principais variáveis:
