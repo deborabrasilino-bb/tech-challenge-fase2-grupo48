@@ -26,8 +26,8 @@ Estes três links são **obrigatórios** e devem ser idênticos aos do PDF de su
 | Item | Link |
 |---|---|
 | Repositório | https://github.com/deborabrasilino-bb/tech-challenge-fase2-grupo48 |
-| Vídeo executivo (≤ 5 min) | <!-- PREENCHER: YouTube não listado / Drive com acesso liberado --> |
-| Apresentação | <!-- PREENCHER: link do arquivo em `docs/` ou Drive --> |
+| Vídeo executivo (≤ 5 min) | https://drive.google.com/file/d/1qQqZZ6bKaDdzksZNzXxtN52J5dkpiMZ5/view?usp=sharing |
+| Apresentação | https://github.com/deborabrasilino-bb/tech-challenge-fase2-grupo48/blob/main/docs/Tech%20Challenge%20-%20Otimiza%C3%A7%C3%A3o%20na%20Concess%C3%A3o%20de%20Cr%C3%A9dito.pdf |
 
 > ⚠️ Repositório privado ou inacessível inviabiliza a avaliação da entrega.
 > Confira o acesso em uma janela anônima antes de enviar.
